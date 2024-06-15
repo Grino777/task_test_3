@@ -1,0 +1,7 @@
+{
+  "python.pythonPath": "${workspaceFolder}/venv/bin/python3",
+  "pylint.cwd": "${workspaceFolder}",
+  "python.terminal.activateEnvironment": true,
+  "terminal.integrated.env.linux": { "PYTHONPATH": "${workspaceFolder}" },
+  "pylint.path": ["${workspaceFolder}/.venv/python", "-m", "pylint"]
+}
