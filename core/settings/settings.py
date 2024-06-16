@@ -1,3 +1,5 @@
+# core/settings/settings.py
+
 import os
 from pydantic import BaseModel
 
